@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>jetson_lc_driver</name>
+  <version>0.1.0</version>
+  <description>Boost.Asio ROS 2 driver for the Lift Controller.</description>
+  <maintainer email="maintainer@example.com">Jetson LC maintainers</maintainer>
+  <license>Proprietary</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <depend>rclcpp</depend>
+  <depend>jetson_lc_interfaces</depend>
+  <depend>jetson_lc_protocol</depend>
+  <depend>boost</depend>
+  <export><build_type>ament_cmake</build_type></export>
+</package>

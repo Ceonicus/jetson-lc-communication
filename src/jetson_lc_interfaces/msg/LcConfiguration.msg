@@ -1,0 +1,7 @@
+builtin_interfaces/Time stamp
+uint16 rated_capacity_kg
+uint16 car_width_mm
+uint16 door_width_mm
+bool has_second_door
+uint8 second_door_position
+uint8[] service_floor_configuration

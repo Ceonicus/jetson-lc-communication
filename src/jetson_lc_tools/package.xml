@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>jetson_lc_tools</name>
+  <version>0.1.0</version>
+  <description>Minimal pseudo-terminal Lift Controller mock.</description>
+  <maintainer email="maintainer@example.com">Jetson LC maintainers</maintainer>
+  <license>Proprietary</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <depend>jetson_lc_protocol</depend>
+  <test_depend>ament_cmake_gtest</test_depend>
+  <export><build_type>ament_cmake</build_type></export>
+</package>

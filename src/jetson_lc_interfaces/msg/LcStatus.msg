@@ -1,0 +1,9 @@
+builtin_interfaces/Time stamp
+uint8 lift_id
+uint8 current_floor
+bool arrived_at_destination
+bool jetson_operation_permitted
+bool robot_maintenance_mode
+bool lift_abnormal_mode
+uint8 automatic_service_session_state
+uint8 automatic_service_abnormal_reason

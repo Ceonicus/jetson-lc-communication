@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>jetson_lc_interfaces</name>
+  <version>0.1.0</version>
+  <description>ROS interfaces for Jetson to Lift Controller communication.</description>
+  <maintainer email="maintainer@example.com">Jetson LC maintainers</maintainer>
+  <license>Proprietary</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <build_depend>rosidl_default_generators</build_depend>
+  <depend>builtin_interfaces</depend>
+  <exec_depend>rosidl_default_runtime</exec_depend>
+  <member_of_group>rosidl_interface_packages</member_of_group>
+  <export><build_type>ament_cmake</build_type></export>
+</package>

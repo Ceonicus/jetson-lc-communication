@@ -1,0 +1,9 @@
+builtin_interfaces/Time stamp
+bool serial_connected
+bool receiving_valid_frames
+bool status_stale
+uint32 consecutive_timeouts
+uint32 crc_error_count
+uint32 malformed_frame_count
+uint8 last_function_code
+string last_error

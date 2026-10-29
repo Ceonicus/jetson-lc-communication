@@ -1,0 +1,3 @@
+builtin_interfaces/Time stamp
+uint16 distance_from_car_top_to_current_floor_sill_mm
+bool valid

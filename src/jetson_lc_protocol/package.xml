@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>jetson_lc_protocol</name>
+  <version>0.1.0</version>
+  <description>ROS-independent Jetson Lift Controller protocol codec.</description>
+  <maintainer email="maintainer@example.com">Jetson LC maintainers</maintainer>
+  <license>Proprietary</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <test_depend>ament_cmake_gtest</test_depend>
+  <export><build_type>ament_cmake</build_type></export>
+</package>

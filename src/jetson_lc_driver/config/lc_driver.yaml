@@ -1,0 +1,13 @@
+lc_driver:
+  ros__parameters:
+    serial_device: "/dev/ttyUSB0"
+    baud_rate: 38400
+    lift_id: 1
+    response_timeout_ms: 100
+    reconnect_period_ms: 1000
+    status_poll_period_ms: 200
+    distance_poll_period_ms: 200
+    configuration_refresh_period_ms: 5000
+    hold_frame_period_ms: 500
+    request_retry_period_ms: 250
+    raw_frame_logging: false
